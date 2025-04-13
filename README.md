@@ -196,7 +196,8 @@ Ace ERP is a comprehensive Java Spring-based enterprise resource planning system
 ## Screenshots
 
 
-(./Screenshot%20(84).png)
+<img src="screenshot0.png" alt="ERP Screenshot" width="800"/>
+<img src="screenshot1.png" alt="ERP Screenshot" width="800"/>
 ---
 check /screen
 © 2024 Ace ERP Systems | [Privacy Policy] | [Terms of Service]
